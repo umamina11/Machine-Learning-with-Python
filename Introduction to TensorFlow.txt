@@ -1,0 +1,56 @@
+Introduction to TensorFlow
+
+A tensor flow is a generation of vectors and matrics to potential higher 
+dimensions, interanally tensor flow represent tensor as n- dimensional array of base datatypes 
+
+Vector : a data point, it cn have n- number of dimensions as per the requirements
+
+Tensor main object we are workking with maniplation and viewing 
+
+Datatype : what type of informaiton stored in (integre, string, float)
+Shape : representaion the dimesnion of data (scaler(just one value), materics)
+
+Rank / Degree of Tensors
+simply mean number of dimensions involved in the tensor 
+
+Example 
+
+rank_0=tf.Variable("this is a string",tf.string)----or we call it scalar 
+as it is simply one this there is no dimernison 
+
+rank_1=tf.Variable(["test],tf.string).
+here this is an array which can store multiple values so we call it one list or one rank
+
+rank_2=tf.Variable([["test","ok"],["test","yes"]],tf.string)
+this we call 2 as here we have list inside a list or we call a matrix so this will give us 
+rank 2 
+
+
+To determine rank of tensor
+tf.rank(rank1_tesnor)
+
+Shapes of tensor 
+It tells how many items we have as in numbers 
+
+syntax: rank_2.shape
+
+Changing Shape 
+
+The nubmer of the elements of a tensor is the prouct of the sixes of all 
+its shapes. There are often many shapes that have the same number of 
+elements, making it convient to be able to change th shape of a tensor 
+
+Example:
+tensor1=tf.ones([1,2,3])   # shape of one 
+
+tensor2=tf.reshape(tensor1,[2,3,1])   # reshaping the existing data to shape
+
+tensor3=tf.reshape(tensor2,[3,-1])   # here the -1 will tells the tensor 
+to calculate the size of the dimensions in that place this will reshape the tensor to [3,3]
+
+print(tensor1)    #printing tensor to compare
+print(tensor2)
+print(tensor3)
+
+
+

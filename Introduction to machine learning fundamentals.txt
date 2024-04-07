@@ -1,0 +1,32 @@
+MAhcine learning fundamentals
+
+Diference between the AI, neural networks and machine learning 
+
+Artifical Intellegence:
+The effort to automate intellectual tasks normally perfromed by humans.
+
+AI is predefiend rules that humans have comeup and then typed in computer
+AI can be simple and complex as per the task requirements 
+
+
+Machine learing figures out the rules for us, thats why we need a 
+large amount of data to train the models
+As it is not sure that everytime we get the correct results using the machine learning models
+so we try to get the higest accuracy possible for the machine learning models.As there are many factors that 
+affects the results 
+
+Rather than giving program the rules, an algorithm finds the rules for us. 
+
+Neural netoworks or deep learning, it is a form of machine learning that uses 
+a layered representation of data.
+in neural netoworks we have input layer which have data and then different layers and the last is output layer 
+which contain the results, or we call it multi stage infromation extraction process
+
+Data
+The most important component, whic is building block in above technologies 
+
+fetaures is the input data that we give models to train the models
+label is the output data or what infromation we are looking for.It reprsent what we are 
+looking for.
+Data plays a important role in developing a model as the results depend on the type of data
+we are feeding to the machine learning modesl in order to generate results.
