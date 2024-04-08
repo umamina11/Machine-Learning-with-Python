@@ -1,0 +1,42 @@
+Core Learning Algorithms
+
+- Linear regression
+- Classification
+- Clustering 
+- Hidden Markvo models
+
+
+Linear regression 
+linear regression is one of the most basic form of machine learning and is 
+used to predic the numeric values
+
+
+Matplotlib for prinitng graphs 
+Regression we can develop a line of best fit 
+through these datapoints that can accuraetly classify 
+and using these lines we can predict accurately 
+we can explain line of best fit as a line through a scatter plot of data points
+that best expresses the relationship between those points  .
+
+        |
+        |(x,y)   /------------> best fit line
+        |   .   /.
+        |   .  /   .
+        |    ./.
+        |    /  .
+        |   /.
+        | ./
+     b  | /
+        |
+        ______________________________________
+
+2-D to make prediction when we have one factor 
+y=mx+b
+
+line must have all the points closed to the line and split even- equally
+
+
+numpy : allow multidimesnional calculation and respresntation
+pandas: data analytics tools, allow to manipulate the datasets
+Matplotlib: allow to  genreate graphs and other mathematical visuals
+Ipython: specific to output 

@@ -43,14 +43,29 @@ elements, making it convient to be able to change th shape of a tensor
 Example:
 tensor1=tf.ones([1,2,3])   # shape of one 
 
+ 1 list 
+ inside which we have 2 lists and each have 3 lists
+
 tensor2=tf.reshape(tensor1,[2,3,1])   # reshaping the existing data to shape
 
 tensor3=tf.reshape(tensor2,[3,-1])   # here the -1 will tells the tensor 
-to calculate the size of the dimensions in that place this will reshape the tensor to [3,3]
+to calculate the size of the dimensions in that place this will 
+reshape the tensor to [3,2]
 
 print(tensor1)    #printing tensor to compare
 print(tensor2)
 print(tensor3)
+
+TYPES OF Tensors
+- Variable
+- constant
+- placeholder
+- sparse tnesor     
+few others
+
+
+ 
+
 
 
 
