@@ -29,7 +29,7 @@ that best expresses the relationship between those points  .
      b  | /
         |
         ______________________________________
-
+ 
 2-D to make prediction when we have one factor 
 y=mx+b
 
@@ -40,3 +40,6 @@ numpy : allow multidimesnional calculation and respresntation
 pandas: data analytics tools, allow to manipulate the datasets
 Matplotlib: allow to  genreate graphs and other mathematical visuals
 Ipython: specific to output 
+
+
+
