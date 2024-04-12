@@ -1,0 +1,14 @@
+Trainind and Testing Data
+
+Categorical data: Categorical data can be stored and identified by names or labels
+                : Because it qualifies data before categorizing it, it is sometimes 
+                  referred to as qualitative data.
+                  Example: Male, Female, Other
+Numeric data: Numerical data are numbers, not words or descriptions.
+            : Quantitative data represents numerical values for arithmetic processes.
+            : Example: Test score out of 20?
+                        Below 5
+                        5-10
+                        10-15
+                        15-20
+                        20

@@ -1,0 +1,12 @@
+the process of feeding infromation to the system and loaded with 
+the infromation 
+we can load the information in too large chunks or single single information at a time so we will be going to streamed into the small batchesof 32
+this means we will no tfeed the entore sataset to our models at once but simply small batches of entries. we will actually feed these batches to our model multiple times accoridng to the number of epochs
+
+EPOCHS: Is simpley one stream of out entire dataset. the number of epochs we defined is the amount of times out model will see the entire dataset.
+
+this is used multiple times in hope that after seeing the similar data miltiple times the model will better determine how to estiamate 
+
+Input Function: it simply defines how our dataset will be converted into batches at each epoch 
+
+ 
