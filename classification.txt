@@ -1,0 +1,17 @@
+Classification is a supervised machine learning method 
+where the model tries to predict the correct label of 
+a given input data. In classification, the model is fully 
+trained using the training data, and then it is evaluated 
+on test data before being used to perform prediction on new 
+unseen data.
+
+
+Some real life examples of classification 
+
+healthcare:
+ training a model on historical data of paitent that can help 
+ healthcare specialist accuractely analyse and make diagonisis 
+Education: 
+ As it deal with differnt type of data ( image, tectual, video and audio). this unstructured 
+ information can be analysed with the the help of NLP 
+Transportation: 
