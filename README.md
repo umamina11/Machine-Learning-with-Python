@@ -1,5 +1,5 @@
-# Machine-Learning-with-Python<br>
-
+# Machine-Learning-with-Python
+<br>
 1. Introduction 
 <br>
 2. Linear models using the Titanic dataset
