@@ -7,3 +7,8 @@
 3. Classification using Iris flower dataset 
 <br>
 4. DNN model using online food dataset
+<br>
+5. K-NN model using diabetes dataset
+<br>
+6. Support Vector Machine using mobile dataset
+<br>
