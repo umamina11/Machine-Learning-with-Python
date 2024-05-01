@@ -12,3 +12,5 @@
 <br>
 6. Support Vector Machine using mobile dataset
 <br>
+7. Decision Tree using wine_SPA dataset 
+<br>
