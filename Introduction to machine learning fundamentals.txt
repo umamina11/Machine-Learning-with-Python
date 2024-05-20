@@ -7,9 +7,6 @@ input and testing the learning accuracy. hyperparameter tunning to make further 
 and last step is predection or deployment in the sector it is required. Machine learning is a continous process. 
 
 
-
-
-
 Machine learning fundamentals
 
 Diference between the AI, neural networks and machine learning 
