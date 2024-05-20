@@ -1,0 +1,27 @@
+The supervised leanring models has a set of input varibles let say X
+and an putput variable say Y, And algorithm identifies the mapping function between the input and 
+the output variables
+the relationship is Y=f(X)
+
+Regression and classififcation are the types of supervised learning.
+
+It used the labeled data to train the machine and then test datsset to test or 
+evaluate the model effectiency as they are able to perfrom what the developer 
+feed the machine.
+
+there are differnt types of labeling and on that the type of supervised learning depends 
+
+Regression and classification 
+Regression: is a mehtod of modeling a traget value is based on independent predictors
+it mainly works on the numeric data
+
+it is a stastical tool which is used to find out the relationship between the outcome 
+variable also known as dependent varibale and one or more varible often 
+called as independent varibales 
+Dependent varible are those whose values depend on independent variable 
+like rent of room depends on the number of rooms provided or used 
+
+Classification 
+It is the process of taking various labels to train the algorithm to identify items within a 
+specific category
+

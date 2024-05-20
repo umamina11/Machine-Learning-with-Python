@@ -1,0 +1,25 @@
+Lets takes the example of netflix 
+which wants to provide the user recommendation of the movies from their watch history 
+there are many kind of machine learning models that provides the recommendation systems 
+- based on classification
+- based on association 
+- based on deep learning 
+- based on popularity 
+and many more....
+
+Collaborative filtering 
+where different users have different opnions and then if they have similar choices so they have similar recommendaiton that means 
+here we have used the similarity 
+here we used the recommendaiton for one user to another as they have similarity in their choices 
+this is unsupervised learning where the machine learn from dataset and find its own pattern and make predictions based on that learning.
+
+MACHINE LEARNING ON CLOUD
+
+cloud computing has made is very easy to perfrom machine learning 
+it allow the data collection from differnt soruces and variety of data
+
+differnt cloud service provides, 
+- AWS 
+- AZure
+
+and many more 

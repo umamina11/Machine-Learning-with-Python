@@ -1,0 +1,18 @@
+Unsupervised learning
+when the purpose of the algorithm goes unclear that goes with unsuepervise learning 
+has many more styles as it doesnot have any label to work on
+important unsupervised learning problems
+clustering: this means bundling the inpur variables with the same characterisitics together 
+grouping with similarities.
+we need to find features and small distances
+
+Association, here the rules that govern meaningful association among the data set. 
+eg: where one and the other thing is related to each other and have relations or conections
+
+it is effective looking at data withot looking at specific feature or rule.
+it finds those relations and fetures themselves
+
+It is a pattern discovery task 
+that sometimes lead to prediction (undertimined)
+
+

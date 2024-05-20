@@ -1,4 +1,16 @@
-MAhcine learning fundamentals
+machine learning is an application of AI which enables a program or software  to learn from the past experiences and improve their self. 
+learning a machine to perfrom certain taskes after providing a training so that they can perfrom those tasks without human involvement.
+data is the most importantt element in this whole process. it include the seven major steps start from gathering data which we required to 
+make computer learn tasks, the second step is to prepare that data, then chosing the model that suits best to make machine perfrom learning 
+in better and most accurate way. next step is train the model by providing differnt input then evaluation or we call it testing by providing 
+input and testing the learning accuracy. hyperparameter tunning to make further improvements and make the necessary changes to make it perfect 
+and last step is predection or deployment in the sector it is required. Machine learning is a continous process. 
+
+
+
+
+
+Machine learning fundamentals
 
 Diference between the AI, neural networks and machine learning 
 
